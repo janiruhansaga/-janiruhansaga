@@ -25,7 +25,7 @@ I spend my free time designing characters like **Urban Panther** and creating AI
 ### 🌟 Key Projects
 | Project | Description |
 | :--- | :--- |
-| **🦁 Urban Panther** | Original character development and AI storytelling universe. |
+| **🦁 Black Panther** | Original character development and AI storytelling universe. |
 | **🎓 Student Management** | System built with IndexedDB, QR codes, and custom UI. |
 | **🎙 Sinhala Voice-to-Text** | Web-based tool for easy Sinhala typing. |
 | **📊 All-in-One Dashboard** | A central hub for all my web tools. |
