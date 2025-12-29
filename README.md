@@ -15,7 +15,7 @@ I love building web tools and exploring AI. Currently working on some cool proje
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ඔයාගේ-නම-මෙතනට-දන්න&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username= janiruhansaga &show_icons=true&theme=radical" height="150" />
 </p>
 
 ---
